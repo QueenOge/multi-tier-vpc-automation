@@ -16,4 +16,4 @@ This project automates the deployment of a secure, three-tier architecture (Web,
 - SSH and internal ping connectivity testing
 
 ## Author
-**Anyalewechi ESTHER** – Cloud Engineer
+**Anyalewechi Esther** – Cloud Engineer
