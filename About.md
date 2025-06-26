@@ -1,7 +1,7 @@
 # About This Project – QueenOge’s VPC Multi-Tier Architecture Journey
 
 ## Why I Built This Project
-I built this project as a way to push myself beyond just learning cloud theory — I wanted to get my hands dirty by building something real, something I could explain and automate. As someone passionate about cloud and DevOps, I needed a project that allowed me to apply skills like scripting, infrastructure deployment, and access control.
+I built this project as a way to push myself beyond just learning cloud theory, I wanted to get my hands dirty by building something real, something I could explain and automate. As someone passionate about cloud and DevOps, I needed a project that allowed me to apply skills like scripting, infrastructure deployment, and access control.
 
 Creating a secure, multi-tier architecture on AWS was the perfect challenge. It tested my understanding of VPCs, subnets, routing, security groups, and EC2 provisioning all while building the discipline of automation and documentation.
 
