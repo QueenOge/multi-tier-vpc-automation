@@ -30,7 +30,7 @@ vpc-multi-tier-architecture-queenoge/
 ├── screenshots/       # SSH and ping test confirmations
 ├── README.md          # Project summary
 ├── ABOUT.md           # Story behind the project
-├── Project_Report.md  # This documentation file
+├── project report.md  # This documentation file
 ```
 
 ---
