@@ -6,7 +6,7 @@ This project automates the deployment of a secure, three-tier architecture (Web,
 - `scripts/` – Bash automation scripts
 - `keys/` – SSH key (excluded via `.gitignore`)
 - `screenshots/` – SSH & ping test proof
-- `Project_Report.md` – Full documentation
+- `project report.md` – Full documentation
 - `ABOUT.md` – Personal story & learning journey
 
 ## Highlights
