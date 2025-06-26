@@ -3,7 +3,7 @@
 ## Why I Built This Project
 I built this project as a way to push myself beyond just learning cloud theory — I wanted to get my hands dirty by building something real, something I could explain and automate. As someone passionate about cloud and DevOps, I needed a project that allowed me to apply skills like scripting, infrastructure deployment, and access control.
 
-Creating a secure, multi-tier architecture on AWS was the perfect challenge. It tested my understanding of VPCs, subnets, routing, security groups, and EC2 provisioning — all while building the discipline of automation and documentation.
+Creating a secure, multi-tier architecture on AWS was the perfect challenge. It tested my understanding of VPCs, subnets, routing, security groups, and EC2 provisioning all while building the discipline of automation and documentation.
 
 ## What I Learned
 - How to provision cloud infrastructure using the AWS CLI instead of the AWS Console  
@@ -30,6 +30,6 @@ If you’re new to DevOps, cloud, or AWS, this project is a practical walkthroug
 - Practicing real-world deployment with public/private tiers  
 
 ## My Message
-This project represents more than technical skill — it’s my confidence builder. It proves that women in cloud can automate infrastructure, write scripts, troubleshoot SSH, and build secure systems from scratch.
+This project represents more than technical skill, it’s my confidence builder. It proves that women in cloud can automate infrastructure, write scripts, troubleshoot SSH, and build secure systems from scratch.
 
-I hope it encourages someone else to try — even if it seems intimidating at first.
+I hope it encourages someone else to try even if it seems intimidating at first.
